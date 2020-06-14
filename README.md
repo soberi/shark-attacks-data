@@ -1,6 +1,4 @@
 # shark-attacks-data
-Week 2 Project: cleaning messy shark attack data
-
 *Shelley Obery*
 
 *Data Analytics, Berlin, 14-06-2020*
@@ -12,6 +10,7 @@ Week 2 Project: cleaning messy shark attack data
 - [Links](#links)
 
 ## Project Description
+Week 2 Project: cleaning messy shark attack data using pandas
               
 ## Workflow
 - After downloading and giving the shark attacks data a quick review, I explored the site it came from to see what kind of input they were using. Turns out entries can be submitted via form with many text fields.
